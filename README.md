@@ -31,8 +31,6 @@ These features provide hands-free environmental awareness and enhanced interacti
 - Audio guidance ensures user safety.
 
 ---
-## Model Design
-![Model Design](./ModelDesign.png)
 
 
 ## Challenges
