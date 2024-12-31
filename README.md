@@ -32,7 +32,7 @@ These features provide hands-free environmental awareness and enhanced interacti
 
 ---
 ## Model Design
-![Model Design](./Projects Documents And Certifications/Model Design/Model Design.png)
+![Model Design](./Model Design.png)
 
 
 ## Challenges
