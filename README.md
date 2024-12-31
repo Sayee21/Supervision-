@@ -1,5 +1,5 @@
 # SUPERVISION
-![SuperVision](Projects Documents And Certifications/SuperVision.jpg)
+![SuperVision](./SuperVision.jpg)
 
 ## Overview
 SUPERVISION is a revolutionary service technology for visually impaired individuals. It integrates:
